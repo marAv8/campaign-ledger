@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+!.env.example
+campaign-ledger/output/
+campaign-ledger-site/dist/
+campaign-ledger-site/scenarios.json
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
